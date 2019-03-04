@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2019-02-14T19:57:01 CET" finished-at="2019-02-14T19:57:01 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2019-02-14T19:57:01 CET" finished-at="2019-02-14T19:57:01 CET">
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="testselenium()[pri:0, instance:qaclickacademy.SeleniumTest@18be83e4]" name="testselenium" duration-ms="6" started-at="2019-02-14T19:57:01 CET" finished-at="2019-02-14T19:57:01 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testselenium -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
